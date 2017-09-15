@@ -27,6 +27,8 @@ requirements:
     - joblib
 
 test:
+  requires:
+    - nose
   imports:
     - scikitplot
     - scikitplot.plotters
