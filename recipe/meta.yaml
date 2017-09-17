@@ -1,6 +1,6 @@
 {% set name = "scikit-plot" %}
-{% set version = "0.3.0" %}
-{% set sha256 = "7ac4413b282ce82fb7ce257fee0bbcceda3a053fc6141e7d210bf43361be5fca" %}
+{% set version = "0.3.1" %}
+{% set sha256 = "11d3ac10adbd3ada98e7b67a2f6dad0174b1e944dbe6af810a53bb5cc5d3271a" %}
 
 package:
   name: {{ name|lower }}
@@ -27,8 +27,6 @@ requirements:
     - joblib
 
 test:
-  requires:
-    - nose
   imports:
     - scikitplot
     - scikitplot.plotters
