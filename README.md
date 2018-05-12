@@ -14,14 +14,16 @@ Summary: An intuitive library to add plotting functionality to scikit-learn obje
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/scikit-plot-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/scikit-plot-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/scikit-plot-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/scikit-plot-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/scikit-plot-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/scikit-plot-feedstock/branch/master)
+[![Linux](https://img.shields.io/circleci/project/github/conda-forge/scikit-plot-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/scikit-plot-feedstock)
+[![OSX](https://img.shields.io/travis/conda-forge/scikit-plot-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/scikit-plot-feedstock)
+[![Windows](https://img.shields.io/appveyor/ci/conda-forge/scikit-plot-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/scikit-plot-feedstock/branch/master)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/scikit-plot/badges/version.svg)](https://anaconda.org/conda-forge/scikit-plot)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/scikit-plot/badges/downloads.svg)](https://anaconda.org/conda-forge/scikit-plot)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-scikit--plot-green.svg)](https://anaconda.org/conda-forge/scikit-plot) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/scikit-plot.svg)](https://anaconda.org/conda-forge/scikit-plot) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/scikit-plot.svg)](https://anaconda.org/conda-forge/scikit-plot) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/scikit-plot.svg)](https://anaconda.org/conda-forge/scikit-plot) |
 
 Installing scikit-plot
 ======================
