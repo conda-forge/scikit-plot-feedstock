@@ -1,6 +1,6 @@
 {% set name = "scikit-plot" %}
-{% set version = "0.3.4" %}
-{% set sha256 = "e2bdd974bd98cbf7dce5a505cd4cff9d819dd80580457c3bd4ce14889c250ef6" %}
+{% set version = "0.3.5" %}
+{% set sha256 = "92faa58ce2fdbbf7ff93c1bed564c4b615cb3df479c2e4f74dcda034dbb762a2" %}
 
 package:
   name: {{ name|lower }}
