@@ -1,6 +1,6 @@
 {% set name = "scikit-plot" %}
-{% set version = "0.3.5" %}
-{% set sha256 = "92faa58ce2fdbbf7ff93c1bed564c4b615cb3df479c2e4f74dcda034dbb762a2" %}
+{% set version = "0.3.7" %}
+{% set sha256 = "2c7948817fd2dc06879cfe3c1fdde56a8e71fa5ac626ffbe79f043650baa6242" %}
 
 package:
   name: {{ name|lower }}
@@ -13,7 +13,7 @@ source:
 
 build:
   noarch: python
-  number: 1
+  number: 0
   script: python -m pip install --no-deps --ignore-installed .
 
 requirements:
